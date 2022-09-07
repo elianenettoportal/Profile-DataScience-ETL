@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root xmlns:wb="http://www.worldbank.org">
+  <data>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba1</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Year">1960</field>
+      <field name="Value">54211</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba2</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Year">1961</field>
+      <field name="Value">55438</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba3</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Year">1962</field>
+      <field name="Value">56225</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba4</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Year">1963</field>
+      <field name="Value">56695</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Year">1964</field>
+      <field name="Value">57032</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ABW">Aruba</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Year">1965</field>
+      <field name="Value">57360</field>
+    </record>
+</data>
+</Root>
